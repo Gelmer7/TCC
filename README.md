@@ -1,7 +1,8 @@
 # INTERNET DAS COISAS: UMA INTERFACE WEB PARA O USUÁRIO
 
+Gelmer Heradio Apaza Calla (Aluno)
+
 Ricardo Santos Ferreira (Orientador)
-Gelmer Heradio Apaza Calla
 
 ## RESUMO 
 Cada dia mais objetos estão se conectando à internet. Tudo isso devido aos preços cada vez mais baixos e ao aumento da capacidade e a miniaturização dos chips, um elemento que vem contribuindo para este aumento são os microcontroladores, ultimamente vem aparecendo muitos tipos de microcontroladores com diferentes capacidades e características, talvez o mais conhecido deles seja o Arduino. O uso de microcontroladores junto a sensores e atuadores é cada vez mais popular em industrias, cidades inteligentes, lavouras, casas, etc. Todo este fenômeno vem sendo chamado a Internet das Coisas do inglês Internet of Thing (IoT). Surge então a necessidade de ter uma interface para poder controlar e monitorizar remotamente esses microcontroladores.
