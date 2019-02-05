@@ -1,4 +1,7 @@
-[click aqui para a explicação do TCC no Youtube](https://youtu.be/iSxo6C621IM)
+[click aqui para ver a explicação do TCC no Youtube](https://youtu.be/iSxo6C621IM)
+
+[click aqui para ver o protótipo no Youtube](https://youtu.be/fWViyjgMG3s)
+
 # INTERNET DAS COISAS: UMA INTERFACE WEB PARA O USUÁRIO
 
 Gelmer Heradio Apaza Calla (Aluno)
